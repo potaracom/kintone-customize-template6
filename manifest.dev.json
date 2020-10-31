@@ -1,0 +1,12 @@
+{
+  "app": "xxx",
+  "scope": "ADMIN",
+  "desktop": {
+    "js": ["https://127.0.0.1:8000/dist/index.js"],
+    "css": []
+  },
+  "mobile": {
+    "js": [],
+    "css": []
+  }
+}
